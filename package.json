@@ -1,0 +1,24 @@
+{
+  "name": "peer-to-peer-first-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESCAFFRE-Lucas/peer-to-peer-first-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESCAFFRE-Lucas/peer-to-peer-first-one/issues"
+  },
+  "homepage": "https://github.com/ESCAFFRE-Lucas/peer-to-peer-first-one#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "peer": "^1.0.2",
+    "peerjs": "^1.5.5"
+  }
+}
